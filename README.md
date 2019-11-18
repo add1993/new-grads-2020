@@ -17,9 +17,10 @@ A collection of new grad roles for 2020.
 | Akuna Capital | Junior Developer | Chicago, IL | https://akunacapital.com/careers#careers |
 | Amazon | Software Development Engineer | Seattle, WA; Austin, TX; Bay Area, CA; Bellevue, WA; Boston, MA; Denver, CO; Detroit, MI; Herndon, VA; Irvine, CA; New York, NY; Madison, WI; Minneapolis, MN; Phoenix, AZ; Portland, OR; San Diego, CA. | https://www.amazon.jobs/en/jobs/908703/software-development-engineer-2020-united-states |
 | American Express | Software Engineer | Phoenix, AZ, USA; Ft. Lauderdale, FL, USA; New York, NY, USA | https://jobs.americanexpress.com/jobs/19013265?lang=en-us&previousLocale=en-US |
-| Applied Intuition | Software Engineer | Sunnyvale, CA | https://hire.withgoogle.com/public/jobs/appliedintuitioncom/view/P_AAAAAADAAAONASDXZTBdvp |
+| Applied Intuition | Software Engineer | Sunnyvale, CA | https://jobs.lever.co/applied/186f572c-f554-43bf-9c7c-0cb0885b1ea3 |
 | Asana | Software Engineer | San Francisco, New York, Vancouver | https://boards.greenhouse.io/asana/jobs/1793586 |
 | Atlassian | Software Developer- 2020 Graduate | Mountain View, CA, USA | https://www.atlassian.com/company/careers/detail/5f0772a8-6df5-40f0-8f1a-044effca6699 |
+| Benchling | Software Engineer New Grad 2019 & 2020 | San Francisco | https://www.benchling.com/careers/?gh_jid=1843909#detail |
 | BlackRock | Software Engineer | New York, NY | https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/user-829423/xf-40177a92b6b2/candidate/so/pm/1/pl/1/opp/3592-Analyst-Program-Americas/en-GB |
 | Bloomberg | Software Engineer | New York, NY | https://careers.bloomberg.com/job/detail/76851 |
 | Bolt | Software Engineer | Toronto, Ontario, Canada; San Francisco, CA, USA | https://www.bolt.com/jobs/software-engineer-new-grad-toronto/b73a1a03-0547-4753-97b4-192affe9a1de/ https://www.bolt.com/jobs/software-engineer-new-grad-sf/397d3220-611b-4f08-ba87-0a03b0d610d6/ |
@@ -79,6 +80,7 @@ A collection of new grad roles for 2020.
 | Rockset | Software Engineer | San Mateo, CA, US | https://hire.withgoogle.com/public/jobs/rocksetio/view/P_AAAAAADAAADMgOiflDNuLe |
 | Rubrik | Software Engineer | Palo Alto, CA | https://www.rubrik.com/company/careers/university-talent/jobs/software-engineer-university-grad-83110/ |
 | Samsara | Software Engineer | San Francisco, CA, US; Atlanta, GA, US | https://boards.greenhouse.io/samsara/jobs/1806764 https://boards.greenhouse.io/samsara/jobs/1818464|
+| Spatial | Software Engineer | New York, NY, US; San Francisco, CA, US; | https://apply.workable.com/spatial/j/A67A3771F0/|
 | Square | Software Engineer | San Francisco, CA, USA | https://www.smartrecruiters.com/Square/743999695908102 |
 | Square Space | Software Engineer | New York, NY | https://www.squarespace.com/careers/jobs/1852860 |
 | Stripe | Software Engineer | Seattle, WA, US | https://stripe.com/jobs/listing/new-grad-software-engineer/1802651 |
